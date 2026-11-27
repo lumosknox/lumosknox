@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=lumosknox)
 
-<img src="Me.jpg" alt="Madhav Kode" width="200" align="right" style="border-radius:15px;"/>
+<img src="Me-portrait.jpg" alt="Madhav Kode" width="200" align="right" style="border-radius:15px;"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-madhavkode-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavkode/)  
 [![GitHub](https://img.shields.io/badge/GitHub-lumosknox-black?logo=github)](https://github.com/lumosknox)  
